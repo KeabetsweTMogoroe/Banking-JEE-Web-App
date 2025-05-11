@@ -36,7 +36,7 @@ BankEJBModule/
 ├── za.ac.tut.bl/             # Business logic (AbstractFacade, CustomerFacade)
 ├── META-INF/persistence.xml
 
-BankWebModule/
+BankWebApp/
 ├── za.ac.tut.web/            # Servlets
 ├── web/index.jsp             # Frontend
 ├── WEB-INF/web.xml           # Deployment descriptor
